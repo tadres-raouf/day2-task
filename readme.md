@@ -13,3 +13,7 @@
     git checkout master
     git checkout dev
     git stash pop
+
+## 8- Tell me how to list tags:
+    git tag
+    result:v1.7
