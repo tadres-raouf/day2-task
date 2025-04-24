@@ -17,3 +17,10 @@
 ## 8- Tell me how to list tags:
     git tag
     result:v1.7
+
+## 9-Tell me how to delete tag locally and remotely.
+	Locally:
+		git tag -d v1.7
+	remotely:
+		git push origin --delete tag v1.7
+		git push origin  :tag v1.7
