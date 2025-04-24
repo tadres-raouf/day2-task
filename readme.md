@@ -24,3 +24,6 @@
 	remotely:
 		git push origin --delete tag v1.7
 		git push origin  :tag v1.7
+
+## 10- Add an image in the README.md file.
+![photo](sad.png)
